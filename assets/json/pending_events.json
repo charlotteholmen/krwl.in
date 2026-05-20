@@ -10801,7 +10801,95 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/webinar-powerpoint-beherrschen-646-C-30AH313043",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/webinar-powerpoint-beherrschen-646-C-30AH313043",
       "tags": []
+    },
+    {
+      "id": "vhs_81fdcfd646e2",
+      "title": "Pflanzenf\u00fchrung - Was bl\u00fcht denn da am Wegesrand?",
+      "teaser": "Wir treffen uns in Oberkotzau am Fernweh-Park (Parkplatz bei den Schildern) und spazieren zum Rathaus. Anschlie\u00dfend machen wir ein kleines Picknick mit Kr\u00e4uterzopf und Blumenkuchen.",
+      "description": "Wir treffen uns in Oberkotzau am Fernweh-Park (Parkplatz bei den Schildern) und spazieren zum Rathaus. Anschlie\u00dfend machen wir ein kleines Picknick mit Kr\u00e4uterzopf und Blumenkuchen.",
+      "location": {
+        "name": "Summa Park Oberkotzau",
+        "address": "Fabrikstr. 12, 95145 Oberkotzau",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-05-30T14:00:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/pflanzenfuehrung-was-blueht-denn-da-am-wegesrand-646-C-30OB508107",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/pflanzenfuehrung-was-blueht-denn-da-am-wegesrand-646-C-30OB508107",
+      "tags": []
+    },
+    {
+      "id": "vhs_039089d7a221",
+      "title": "Webinar \u201eKI im Alltag\u201c",
+      "teaser": "KI-Anwendungen haben l\u00e4ngst Einzug in unserem Arbeitsalltag gehalten, und sind nach dem Internet die gr\u00f6\u00dfte Revolution der Neuzeit.",
+      "description": "KI-Anwendungen haben l\u00e4ngst Einzug in unserem Arbeitsalltag gehalten, und sind nach dem Internet die gr\u00f6\u00dfte Revolution der Neuzeit. Dieses Webinar bietet Ihnen einen umfassenden \u00dcberblick dar\u00fcber, was KI ist, und wie k\u00fcnstliche Intelligenz (KI) den modernen Arbeitsplatz transformiert und Mitarbeiter*innen dabei unterst\u00fctzt, effizienter und kreativer zu arbeiten - auch im privaten Bereich. Erledigen Sie schneller Ihre Aufgaben, z. B. bei der Erstellung und beim Verfassen von Texten bis hin zur Nu",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-05-30T14:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/webinar-ki-im-alltag-646-C-30AH311072",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/webinar-ki-im-alltag-646-C-30AH311072",
+      "tags": []
+    },
+    {
+      "id": "vhs_20ad8c459d57",
+      "title": "Webinar \"Geld verdienen im Internet durch Verkaufen\"",
+      "teaser": "Internet-Verkaufsplattformen erfreuen sich immer st\u00e4rkerer Beliebtheit.",
+      "description": "Internet-Verkaufsplattformen erfreuen sich immer st\u00e4rkerer Beliebtheit. Allein Ebay hat in Deutschland mehr als sechs Millionen registrierte Mitglieder, die t\u00e4glich rund eine Million Artikel anbieten bzw. kaufen. Wollen Sie eine Insel ersteigern oder Ihren Familienschmuck zu fairen Preisen verkaufen? Aber auch B\u00fccher sowie Elektronik-Artikel finden Ihre neuen Besitzer \u00fcber diverse Ankauf-Portale. Evtl. stellen Sie selber Produkte her bzw. m\u00f6chten diese verkaufen. Dann mache ich Sie mit der aufre",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-05-31T10:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/webinar-geld-verdienen-im-internet-durch-verkaufen-646-C-30AH314013",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/webinar-geld-verdienen-im-internet-durch-verkaufen-646-C-30AH314013",
+      "tags": []
+    },
+    {
+      "id": "vhs_91d1f876a0dd",
+      "title": "Energiesparen im Alltag - Tipps und Tricks!Online-Vortrag der Verbraucherzentrale Bayern",
+      "teaser": "Gerade in Zeiten steigender Energiepreise m\u00f6chten viele Verbraucher:innen den Strom- und Heizenergieverbrauch in ihrem Haushalt gern senken. Die Verbraucherzentrale Bayern e.V.",
+      "description": "Gerade in Zeiten steigender Energiepreise m\u00f6chten viele Verbraucher:innen den Strom- und Heizenergieverbrauch in ihrem Haushalt gern senken. Die Verbraucherzentrale Bayern e.V. erkl\u00e4rt, wie Sie bereits mit einfachen Ma\u00dfnahmen Kosten einsparen k\u00f6nnen. Au\u00dferdem wird erkl\u00e4rt, wie man die Effizienz der eigenen Heizung steigern und m\u00f6gliche W\u00e4rmeverluste reduzieren kann. Der Vortrag findet in Kooperation mit der Energieberatung der Verbraucherzentrale Bayern statt. \nZielgruppe: Alle interessierten Ve",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-01T12:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/energiesparen-im-alltag-tipps-und-tricks/online-vortrag-der-verbraucherzentrale-bayern-646-C-30AH107144",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/energiesparen-im-alltag-tipps-und-tricks/online-vortrag-der-verbraucherzentrale-bayern-646-C-30AH107144",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-05-19T16:05:42.591443"
+  "last_scraped": "2026-05-20T04:26:10.952590"
 }
