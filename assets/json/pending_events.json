@@ -11659,7 +11659,29 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/kollegiale-beratung-646-C-30AH290204",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/kollegiale-beratung-646-C-30AH290204",
       "tags": []
+    },
+    {
+      "id": "vhs_b376398a2660",
+      "title": "MakerSpace - Technik selbst ausprobieren",
+      "teaser": "Sie sind Unternehmer oder Do-It-Yourself-Aktiver, Modellbauer oder Bastler? \nIhnen fehlt jedoch das Equipment, um Ihre Ideen umzusetzen? Oder Sie w\u00fcnschen sich inhaltliche Unterst\u00fctzung und Zugang zu",
+      "description": "Sie sind Unternehmer oder Do-It-Yourself-Aktiver, Modellbauer oder Bastler? \nIhnen fehlt jedoch das Equipment, um Ihre Ideen umzusetzen? Oder Sie w\u00fcnschen sich inhaltliche Unterst\u00fctzung und Zugang zu Expertenwissen?\t\nDann nutzen Sie unseren MakerSpace. Eine Hightech-Werkstatt, die Ihnen den Zugang zu Maschinen, Werkzeugen, Software und dazugeh\u00f6rigem Fachwissen erm\u00f6glicht.\n\nDas MakerSpace bietet Ihnen einen Ort, an dem Ideen und Innovationen realisiert werden. Nach entsprechenden Einf\u00fchrungsworks",
+      "location": {
+        "name": "VHS",
+        "address": "Ludwigstra\u00dfe 7, 95028 Hof",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-10T17:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/makerspace-technik-selbst-ausprobieren-646-C-30AH319016",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/makerspace-technik-selbst-ausprobieren-646-C-30AH319016",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-06-02T04:29:58.707806"
+  "last_scraped": "2026-06-02T16:30:53.698449"
 }
