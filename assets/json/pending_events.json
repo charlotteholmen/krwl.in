@@ -11813,7 +11813,29 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/excel-aufbaukurs-646-C-30AH313022",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/excel-aufbaukurs-646-C-30AH313022",
       "tags": []
+    },
+    {
+      "id": "vhs_a6ff92610ddc",
+      "title": "Knipsen kann jeder - Aber fotografieren?Grundkurs",
+      "teaser": "Automatikprogramme digitaler Kameras lassen das Fotografieren kinderleicht erscheinen. Umso h\u00e4ufiger weichen Ergebnis und kreative Vorstellung des Fotografen voneinander ab.",
+      "description": "Automatikprogramme digitaler Kameras lassen das Fotografieren kinderleicht erscheinen. Umso h\u00e4ufiger weichen Ergebnis und kreative Vorstellung des Fotografen voneinander ab. Tipps und Anregungen zu Motivsuche, Bildgestaltung und -komposition sind genauso Thema wie das Verh\u00e4ltnis von Licht, Blende und Belichtungszeiten. \nVoraussetzung: Bedienung der eigenen Kamera (Men\u00fc)",
+      "location": {
+        "name": "VHS",
+        "address": "Ludwigstra\u00dfe 7, 95028 Hof",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-09T17:45:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/knipsen-kann-jeder-aber-fotografieren/grundkurs-646-C-30AH316012",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/knipsen-kann-jeder-aber-fotografieren/grundkurs-646-C-30AH316012",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-06-03T04:31:25.992418"
+  "last_scraped": "2026-06-03T16:32:21.589103"
 }
