@@ -12121,7 +12121,73 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/online-seminar-delegationsgespraeche-erfolgreich-fuehren/trainings-workshop-646-C-30AH270450",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/online-seminar-delegationsgespraeche-erfolgreich-fuehren/trainings-workshop-646-C-30AH270450",
       "tags": []
+    },
+    {
+      "id": "vhs_d22ca264fe43",
+      "title": "Bad Steben entdecken: Grafikmuseum Stiftung Schreiner und KurparkExkursion",
+      "teaser": "Wir besuchen das Kurhaus sowie die Ausstellung \u201eDIE LUST DES MONDES IN DER EINHEIZ NACHT\u201c von Horst Peter Meyer (Bl\u00e4tter, Wolfgang-Schreiner-Stiftungspreis f\u00fcr Druckgrafik 2024).",
+      "description": "Wir besuchen das Kurhaus sowie die Ausstellung \u201eDIE LUST DES MONDES IN DER EINHEIZ NACHT\u201c von Horst Peter Meyer (Bl\u00e4tter, Wolfgang-Schreiner-Stiftungspreis f\u00fcr Druckgrafik 2024). Anschlie\u00dfend besichtigen wir das Gartendenkmal Kurpark Bad Steben, wo wir gemeinsam spazieren gehen.\n\nTreffpunkt: Hauptbahnhof Hof um 11:05 Uhr.\nDie Zugabfahrt ist um 11:38 Uhr.\nDie R\u00fcckfahrt aus Bad Steben erfolgt mit dem Zug um 15:39 Uhr.\nLeistungen: Zugtickets, Eintrittsgeld und F\u00fchrung inklusive.",
+      "location": {
+        "name": "Grafikmuseum Stiftung Schreiner",
+        "address": "Badstra\u00dfe 30/31, Bad Steben",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-14T11:00:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/bad-steben-entdecken-grafikmuseum-stiftung-schreiner-und-kurpark/exkursion-646-C-30AA929119",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/bad-steben-entdecken-grafikmuseum-stiftung-schreiner-und-kurpark/exkursion-646-C-30AA929119",
+      "tags": []
+    },
+    {
+      "id": "vhs_aab957daa26e",
+      "title": "Hatha-Yoga -  f\u00fcr Anf\u00e4nger*innen und Wiedereinsteiger*innen",
+      "teaser": "Wir lernen gemeinsam verschiedene K\u00f6rper\u00fcbungen (Asanas), Atemtechniken und Entspannungs\u00fcbungen kennen.",
+      "description": "Wir lernen gemeinsam verschiedene K\u00f6rper\u00fcbungen (Asanas), Atemtechniken und Entspannungs\u00fcbungen kennen. Damit k\u00f6nnen wir unsere K\u00f6rperwahrnehmung verbessern sowie Kraft, Beweglichkeit und Koordination f\u00f6rdern. Eine gef\u00fchrte Anfangs- und l\u00e4ngere Schlussentspannungsphase bilden den geeigneten Rahmen f\u00fcr die Stunde, um auch das \u201eLoslassen\u201c und \u201eWieder-bei-sich-ankommen\u201c zu genie\u00dfen. Die Stunden basieren auf der \u00dcbungsreihe nach Swami Sivananda. Er ist nicht f\u00fcr Schwangere geeignet.",
+      "location": {
+        "name": "VHS",
+        "address": "Ludwigstra\u00dfe 7, 95028 Hof",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-09-14T17:00:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/hatha-yoga-fuer-anfaenger-innen-und-wiedereinsteiger-innen-646-C-31AH501104",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/hatha-yoga-fuer-anfaenger-innen-und-wiedereinsteiger-innen-646-C-31AH501104",
+      "tags": []
+    },
+    {
+      "id": "vhs_7a7cdf6fa2f4",
+      "title": "Hatha-Yoga -  f\u00fcr Anf\u00e4nger und Wiedereinsteiger",
+      "teaser": "Wir lernen gemeinsam verschiedene K\u00f6rper\u00fcbungen (Asanas), Atemtechniken und Entspannungs\u00fcbungen kennen.",
+      "description": "Wir lernen gemeinsam verschiedene K\u00f6rper\u00fcbungen (Asanas), Atemtechniken und Entspannungs\u00fcbungen kennen. Damit k\u00f6nnen wir unsere K\u00f6rperwahrnehmung verbessern sowie Kraft, Beweglichkeit und Koordination f\u00f6rdern. Eine gef\u00fchrte Anfangs- und l\u00e4ngere Schlussentspannungsphase bilden den geeigneten Rahmen f\u00fcr die Stunde, um auch das \u201eLoslassen\u201c und \u201eWieder-bei-sich-ankommen\u201c zu genie\u00dfen. Die Stunden basieren auf der \u00dcbungsreihe nach Swami Sivananda. Er ist nicht f\u00fcr Schwangere geeignet.",
+      "location": {
+        "name": "VHS",
+        "address": "Ludwigstra\u00dfe 7, 95028 Hof",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-09-14T18:35:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/hatha-yoga-fuer-anfaenger-und-wiedereinsteiger-646-C-31AH501105",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/hatha-yoga-fuer-anfaenger-und-wiedereinsteiger-646-C-31AH501105",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-06-05T15:59:38.057239"
+  "last_scraped": "2026-06-08T04:30:23.004555"
 }
