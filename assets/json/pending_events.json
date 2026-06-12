@@ -12539,7 +12539,51 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/selbststaendiges-deutschlernen-mit-dem-vhs-lernportal-einweisung-646-C-30AH402712",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/selbststaendiges-deutschlernen-mit-dem-vhs-lernportal-einweisung-646-C-30AH402712",
       "tags": []
+    },
+    {
+      "id": "vhs_f7759c2d51bf",
+      "title": "Online-Seminar: Gewaltfreie Kommunikation: Der Schl\u00fcssel zu mehr Verst\u00e4ndnis und weniger Streit",
+      "teaser": "Worte k\u00f6nnen Br\u00fccken bauen oder Gr\u00e4ben vertiefen \u2013 mit gewaltfreier Kommunikation (GFK) lernen Sie, wertsch\u00e4tzend und zugleich klar zu kommunizieren.",
+      "description": "Worte k\u00f6nnen Br\u00fccken bauen oder Gr\u00e4ben vertiefen \u2013 mit gewaltfreier Kommunikation (GFK) lernen Sie, wertsch\u00e4tzend und zugleich klar zu kommunizieren. Dieses Seminar bietet Ihnen die M\u00f6glichkeit, die Grundlagen der GFK zu entdecken und sofort in die Praxis umzusetzen. \nWas Sie erwartet: \nKlarheit in Gespr\u00e4chen: Lernen Sie, Ihre Bed\u00fcrfnisse und Anliegen so zu formulieren, dass sie geh\u00f6rt und verstanden werden. \nEmpathie und Verbindung: Verbessern Sie Ihre F\u00e4higkeit, auch in schwierigen Situationen",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-25T18:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/online-seminar-gewaltfreie-kommunikation-der-schluessel-zu-mehr-verstaendnis-und-weniger-streit-646-C-30AH270491",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/online-seminar-gewaltfreie-kommunikation-der-schluessel-zu-mehr-verstaendnis-und-weniger-streit-646-C-30AH270491",
+      "tags": []
+    },
+    {
+      "id": "vhs_c90e31068395",
+      "title": "Photovoltaik im Mehrfamilienhaus \u2013 die \u201eGemeinschaftliche Geb\u00e4udeversorgung\u201c!Online-Vortrag der Verbraucherzentrale Bayern",
+      "teaser": "Unabh\u00e4ngig von \"Mieterstrommodellen\" ist die \u201egemeinschaftliche Geb\u00e4udeversorgung\u201c ein Betriebskonzept f\u00fcr Mehrfamilienh\u00e4user, das es allen Parteien erlaubt, Strom vom Dach, mit voraussichtlich wenige...",
+      "description": "Unabh\u00e4ngig von \"Mieterstrommodellen\" ist die \u201egemeinschaftliche Geb\u00e4udeversorgung\u201c ein Betriebskonzept f\u00fcr Mehrfamilienh\u00e4user, das es allen Parteien erlaubt, Strom vom Dach, mit voraussichtlich weniger Verwaltungsaufwand zu nutzen. Die Basis ist etwa eine Photovoltaikanlage in Gemeinschaftseigentum. Klingt interessant, bietet neue Chancen und birgt Fragen, wie z.B.: Welche Betriebskonzepte f\u00fcr Photovoltaik gibt es? Was ist speziell unter \u201eGemeinschaftlichen Geb\u00e4udeversorgung\u201c zu verstehen? Wie k",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-25T19:00:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/photovoltaik-im-mehrfamilienhaus-die-gemeinschaftliche-gebaeudeversorgung/online-vortrag-der-verbraucherzentrale-bayern-646-C-30AH107152",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/photovoltaik-im-mehrfamilienhaus-die-gemeinschaftliche-gebaeudeversorgung/online-vortrag-der-verbraucherzentrale-bayern-646-C-30AH107152",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-06-11T16:22:59.335611"
+  "last_scraped": "2026-06-12T04:29:48.709370"
 }
