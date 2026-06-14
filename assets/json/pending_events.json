@@ -12583,7 +12583,29 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/photovoltaik-im-mehrfamilienhaus-die-gemeinschaftliche-gebaeudeversorgung/online-vortrag-der-verbraucherzentrale-bayern-646-C-30AH107152",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/photovoltaik-im-mehrfamilienhaus-die-gemeinschaftliche-gebaeudeversorgung/online-vortrag-der-verbraucherzentrale-bayern-646-C-30AH107152",
       "tags": []
+    },
+    {
+      "id": "vhs_1b00cbe71ea5",
+      "title": "Hormon-Yoga",
+      "teaser": "Dieses speziell von der Brasilianierin Dinah Rodriguez entwickelte Programm ist eine Kombination aus klassischem Hatha Yoga, Kundalini-Yoga und tibetischen Energie\u00fcbungen.",
+      "description": "Dieses speziell von der Brasilianierin Dinah Rodriguez entwickelte Programm ist eine Kombination aus klassischem Hatha Yoga, Kundalini-Yoga und tibetischen Energie\u00fcbungen. Frauen jeden Alters k\u00f6nnen davon profitieren. Die dynamischen \u00dcbungen des Hormonyogas steigern ganz allgemein die Vitalit\u00e4t und das Wohlbefinden. Hormonyoga kann hormonelle St\u00f6rungen und Disbalancen reduzieren bzw. diesen vorbeugen. Die komplette Hormon Yoga \u00dcbungsreihe ist in etwa 40 Minuten durchf\u00fchrbar und besteht aus K\u00f6rpe",
+      "location": {
+        "name": "VHS",
+        "address": "Ludwigstra\u00dfe 7, 95028 Hof",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-26T15:00:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/hormon-yoga-646-C-30AH501117",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/hormon-yoga-646-C-30AH501117",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-06-12T04:29:48.709370"
+  "last_scraped": "2026-06-14T04:30:21.412404"
 }
