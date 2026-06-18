@@ -12891,7 +12891,73 @@
       "source": "https://www.vhshoferland.de/p/last-minute-kurse/vhs-stammtisch-ki-kuenstliche-intelligenz-lernt-mitdenken-was-sind-ki-agenten/austausch-verstehen-loesungen-646-C-30AA904203",
       "url": "https://www.vhshoferland.de/p/last-minute-kurse/vhs-stammtisch-ki-kuenstliche-intelligenz-lernt-mitdenken-was-sind-ki-agenten/austausch-verstehen-loesungen-646-C-30AA904203",
       "tags": []
+    },
+    {
+      "id": "vhs_eee6ffc3a346",
+      "title": "VHS Smartphone-StammtischSelbitz",
+      "teaser": "Smartphone, Tablet und Co. bereiten in der Praxis immer wieder Probleme. Die konkreten Anforderungen lassen sich gemeinsam besser l\u00f6sen und daher bieten diese Treffen an, um Hilfe anzubieten.",
+      "description": "Smartphone, Tablet und Co. bereiten in der Praxis immer wieder Probleme. Die konkreten Anforderungen lassen sich gemeinsam besser l\u00f6sen und daher bieten diese Treffen an, um Hilfe anzubieten. Idealerweise helfen sich die Teilnehmenden untereinander und entsprechen dem \u201eStammtisch-Gedanken\u201c. Wir laden Sie herzlich ein, Teil der Gemeinschaft zu werden.",
+      "location": {
+        "name": "Selbitz",
+        "address": "Grundschule",
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": false,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-30T15:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/vhs-smartphone-stammtisch/selbitz-646-C-30AA904215",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/vhs-smartphone-stammtisch/selbitz-646-C-30AA904215",
+      "tags": []
+    },
+    {
+      "id": "vhs_a030e3455b77",
+      "title": "KI-Protokolle: K\u00fcnstliche Intelligenz als Helfer",
+      "teaser": "Die manuelle Protokollerstellung kann zeitaufwendig und m\u00fchsam sein.",
+      "description": "Die manuelle Protokollerstellung kann zeitaufwendig und m\u00fchsam sein. K\u00fcnstliche Intelligenz bietet effiziente L\u00f6sungen, um Besprechungen, Meetings und Gespr\u00e4che automatisch zu erfassen und strukturiert zu dokumentieren. In diesem Workshop wird praxisnah gezeigt, wie verschiedene KI-Tools zur Protokollerstellung genutzt werden k\u00f6nnen, um Zeit zu sparen und die Qualit\u00e4t der Notizen zu verbessern.",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-30T17:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/ki-protokolle-kuenstliche-intelligenz-als-helfer-646-C-30AH311104",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/ki-protokolle-kuenstliche-intelligenz-als-helfer-646-C-30AH311104",
+      "tags": []
+    },
+    {
+      "id": "vhs_ad7600c4ce46",
+      "title": "Online-Seminar: Die Kraft des Schweigens - Wie Sie mit weniger Worten mehr erreichen!",
+      "teaser": "In unserer hektischen Welt, in der Worte oft im \u00dcberfluss flie\u00dfen, wird die Kunst des Schweigens immer wertvoller.",
+      "description": "In unserer hektischen Welt, in der Worte oft im \u00dcberfluss flie\u00dfen, wird die Kunst des Schweigens immer wertvoller. Ob im Berufsleben oder im privaten Umfeld \u2013 wer gezielt Stille einsetzt, kann Gespr\u00e4che wirkungsvoller lenken, Vertrauen aufbauen und Konflikte entsch\u00e4rfen. Doch wie gelingt es, durch bewusste Pausen und pr\u00e4zise gew\u00e4hlte Worte \u00fcberzeugender aufzutreten? \nDieses praxisnahe Seminar zeigt Ihnen, wie Sie mit weniger Worten mehr Wirkung erzielen. Sie lernen, wie strategisches Schweigen I",
+      "location": {
+        "name": "Online",
+        "address": null,
+        "lat": 50.3167,
+        "lon": 11.9167,
+        "address_hidden": true,
+        "needs_review": false,
+        "resolution_method": null
+      },
+      "start_time": "2026-06-30T18:30:00",
+      "end_time": null,
+      "category": "education",
+      "status": "pending",
+      "source": "https://www.vhshoferland.de/p/last-minute-kurse/online-seminar-die-kraft-des-schweigens-wie-sie-mit-weniger-worten-mehr-erreichen-646-C-30AH270292",
+      "url": "https://www.vhshoferland.de/p/last-minute-kurse/online-seminar-die-kraft-des-schweigens-wie-sie-mit-weniger-worten-mehr-erreichen-646-C-30AH270292",
+      "tags": []
     }
   ],
-  "last_scraped": "2026-06-17T16:15:02.081382"
+  "last_scraped": "2026-06-18T04:30:08.627134"
 }
